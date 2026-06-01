@@ -15,7 +15,6 @@ import anndata as ad
 from anndata import AnnData
 
 # --- Configuration Section ---
-# USER TO VERIFY ALL PATHS AND THE GENE NAME COLUMN IN STEP 5
 print("--- Starting Configuration ---")
 
 LABELS = {"normal": 0, "tumour": 1}
